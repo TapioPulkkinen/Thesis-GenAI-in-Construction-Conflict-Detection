@@ -25,9 +25,6 @@ To install the software, follow these steps:
 1. Clone the repository or download the zip file to your local machine.
 2. Navigate to the directory containing the software files.
 3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 To use the software, run the `main.py` script.
