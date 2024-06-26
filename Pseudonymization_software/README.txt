@@ -31,7 +31,3 @@ To use the software, run the `main.py` script.
 ### Further instructions:
 - no commas are allowed in the entity names
 - only these entities are can be pseudonymized: ["EMAIL_ADDRESS", "LOCATION", "PERSON", "PHONE_NUMBER", "ORGANIZATION"]
-
-
-## License
-This software is provided under MIT license.
